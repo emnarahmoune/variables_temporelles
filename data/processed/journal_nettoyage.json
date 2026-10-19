@@ -1,9 +1,0 @@
-{
-  "lignes_initiales": 17609,
-  "colonnes_texte_normalisees": 4,
-  "doublons_supprimes": 240,
-  "dates_manquantes_supprimees": 347,
-  "remises_manquantes_remplacees": 1874,
-  "quantites_negatives_traitees": 30,
-  "lignes_finales": 16992
-}
